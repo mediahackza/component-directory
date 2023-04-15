@@ -2,7 +2,11 @@
 
 
     <ul>
-        <li><a href="https://www.npmjs.com/package/@mediahackza/utilities">@mediahackza/utilities</a></li>
-        <li><a href="https://www.npmjs.com/package/@mediahackza/graphic-components">@mediahackza/graphic-components</a></li>
+        <li><strong>@mediahackza/utilities</strong></li>
+        <li><strong>@mediahackza/graphic-components</strong></li>
     </ul>
+
+    <p>
+        Use the sidebar links to find out more about each project.
+    </p>
 
