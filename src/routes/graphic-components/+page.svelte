@@ -13,9 +13,13 @@
     <pre>
         npm install @mediahackza/graphic-components
     </pre>
-    Then import the components you want to use in your Svelte project:
+    Import the components you want to use in your Svelte project:
     <pre>
         import &lcub; Button &rcub; from '@mediahackza/graphic-components'
+    </pre>
+    Use the components in your Svelte code:
+    <pre>
+        &lt;Button /&gt;
     </pre>
 
     <hr>
