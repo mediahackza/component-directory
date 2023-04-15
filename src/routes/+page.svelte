@@ -2,8 +2,9 @@
 
 
     <ul>
-        <li><strong>@mediahackza/utilities</strong></li>
+        
         <li><strong>@mediahackza/graphic-components</strong></li>
+        <li><strong>@mediahackza/utilities</strong></li>
     </ul>
 
     <p>

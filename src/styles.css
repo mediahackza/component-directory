@@ -19,12 +19,12 @@ a {
 
 main { 
     display: grid; 
-    grid-template-columns: 300px auto;
+    grid-template-columns: minmax(200px, 300px) auto;
     grid-gap: 20px;
     width: 90%; 
 }
 .sidebar { 
-    background: #fff;
+    background: #f6f6f6;
     border-right: solid 1px #eee;
     padding: 30px;
     min-height: 100vh;
